@@ -10,5 +10,5 @@
 
   - [My Param Sheet部品の解説](https://morishima-yuki.github.io/My-Param-Sheet/docs/3.component.html)
 
-  -[サンプルコード](https://morishima-yuki.github.io/My-Param-Sheet/docs/4.example.html)
+  - [サンプルコード](https://morishima-yuki.github.io/My-Param-Sheet/docs/4.example.html)
 
