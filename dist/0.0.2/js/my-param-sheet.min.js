@@ -1,6 +1,6 @@
 
 /**
- * my-param-sheet v0.0.1
+ * my-param-sheet v0.0.2
  * Copyright (c) Yuki Morishima
  * https://github.com/morishima-yuki/My-Param-Sheet
  */
